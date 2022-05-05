@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://weiyu-t.github.io/csb-v8opl6/static/css/main.fbb427c6.chunk.css",
+    "main.js": "https://weiyu-t.github.io/csb-v8opl6/static/js/main.5d5e46ae.chunk.js",
+    "main.js.map": "https://weiyu-t.github.io/csb-v8opl6/static/js/main.5d5e46ae.chunk.js.map",
+    "runtime-main.js": "https://weiyu-t.github.io/csb-v8opl6/static/js/runtime-main.5df5cba6.js",
+    "runtime-main.js.map": "https://weiyu-t.github.io/csb-v8opl6/static/js/runtime-main.5df5cba6.js.map",
+    "static/js/2.4234b8bd.chunk.js": "https://weiyu-t.github.io/csb-v8opl6/static/js/2.4234b8bd.chunk.js",
+    "static/js/2.4234b8bd.chunk.js.map": "https://weiyu-t.github.io/csb-v8opl6/static/js/2.4234b8bd.chunk.js.map",
+    "index.html": "https://weiyu-t.github.io/csb-v8opl6/index.html",
+    "precache-manifest.922f38d285322fac87afcdc35dc026d6.js": "https://weiyu-t.github.io/csb-v8opl6/precache-manifest.922f38d285322fac87afcdc35dc026d6.js",
+    "service-worker.js": "https://weiyu-t.github.io/csb-v8opl6/service-worker.js",
+    "static/css/main.fbb427c6.chunk.css.map": "https://weiyu-t.github.io/csb-v8opl6/static/css/main.fbb427c6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5df5cba6.js",
+    "static/js/2.4234b8bd.chunk.js",
+    "static/css/main.fbb427c6.chunk.css",
+    "static/js/main.5d5e46ae.chunk.js"
+  ]
+}
